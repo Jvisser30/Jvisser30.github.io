@@ -1,5 +1,9 @@
 ul {
-    background-color: lightcyan;
+    color:rgb(0, 208, 255);
     list-style-type: none;
     margin-top: 100px;
+}
+
+h1 {
+    color:aquamarine;
 }
