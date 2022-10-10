@@ -1,13 +1,22 @@
-#ul {
-    color:rgb(0, 208, 255);
-    list-style-type: none;
-    margin-top: 100px;
-}
-
 h1 {
     color:aquamarine;
 }
 
 #body1 {
     color:green;
+}
+h2 {
+    color: red
+}
+#body2 {
+    color: rgb(65, 209, 225)
+}
+h3 {
+    color: orange
+}
+#body3 { 
+    color: blue
+}
+h4 { 
+    color:darkturquoise
 }
