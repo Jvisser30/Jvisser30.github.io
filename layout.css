@@ -1,22 +1,28 @@
 #kop1 {
-    color:aquamarine;
+    color:rgb(131, 176, 161);
 }
 
 #body1 {
     color:green;
 }
 #kop2 {
-    color: red
+    color: red;
 }
 #body2 {
-    color: rgb(65, 209, 225)
+    color: rgb(65, 209, 225);
 }
 #kop3{
-    color: orange
+    color: orange;
 }
 #body3 { 
-    color: blue
+    color: blue;
 }
 #kop4 { 
-    color:darkturquoise
+    color:darkturquoise;
+}
+ul {
+    color: white;
+    background-color: black;   
+    /* Zoek op w3schools css navigation bar en dan horizontal, style float toevoegen aan ul bij
+    de pagina zelf, dit verwijderen*/
 }
