@@ -27,9 +27,10 @@ ul {
     de pagina zelf, dit verwijderen*/
 }
 li {
-    float: right;
-    
+    float: left;
 }
 :active {
-    color:deepskyblue
+    background-color:deepskyblue
 }
+/* bakcground colors doen ipv kopjes enz, op elke pagina onderste regel van menu, kijk w3schools
+ook kijken bestandsformaten voor commentaar*/
