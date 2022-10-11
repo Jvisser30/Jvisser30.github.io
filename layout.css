@@ -27,5 +27,9 @@ ul {
     de pagina zelf, dit verwijderen*/
 }
 li {
-    list-style: ;
+    float: right;
+    
+}
+:active {
+    color:deepskyblue
 }
