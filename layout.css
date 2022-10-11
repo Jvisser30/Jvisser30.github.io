@@ -26,3 +26,6 @@ ul {
     /* Zoek op w3schools css navigation bar en dan horizontal, style float toevoegen aan ul bij
     de pagina zelf, dit verwijderen*/
 }
+li {
+    list-style: ;
+}
