@@ -31,6 +31,12 @@ ul {
   li {
     float: left;
   }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+  }
     /* Zoek op w3schools css navigation bar en dan horizontal, style float toevoegen aan ul bij
     de pagina zelf, dit verwijderen*/
 
