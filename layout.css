@@ -3,19 +3,19 @@
 }
 
 #body1 {
-    color:green;
+    background-color:green;
 }
 #kop2 {
     color: red;
 }
 #body2 {
-    color: rgb(65, 209, 225);
+    background-color: rgb(65, 209, 225);
 }
 #kop3{
     color: orange;
 }
 #body3 { 
-    color: blue;
+    background-color: blue;
 }
 #kop4 { 
     color:darkturquoise;
