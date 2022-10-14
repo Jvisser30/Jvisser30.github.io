@@ -21,15 +21,18 @@
     color:darkturquoise;
 }
 ul {
-    color: white;
-    background-color: black; 
-    font-size: 70px;  
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  li {
+    float: left;
+  }
     /* Zoek op w3schools css navigation bar en dan horizontal, style float toevoegen aan ul bij
     de pagina zelf, dit verwijderen*/
-}
-li {
-    float: left;
-}
 
 /* bakcground colors doen ipv kopjes enz, op elke pagina onderste regel van menu, kijk w3schools
 ook kijken bestandsformaten voor commentaar*/
