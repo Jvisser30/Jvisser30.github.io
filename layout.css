@@ -21,6 +21,10 @@
 #kop4 { 
     color:darkturquoise;
 }
+#body4 {
+    background-color: lightgreen;
+    color: white;
+}
 ul {
     list-style-type: none;
     margin: 0;
