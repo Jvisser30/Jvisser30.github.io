@@ -22,7 +22,8 @@
 }
 ul {
     color: white;
-    background-color: black;   
+    background-color: black; 
+    font-size: 70px;  
     /* Zoek op w3schools css navigation bar en dan horizontal, style float toevoegen aan ul bij
     de pagina zelf, dit verwijderen*/
 }
