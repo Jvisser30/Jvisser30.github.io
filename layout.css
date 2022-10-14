@@ -3,6 +3,7 @@
 }
 
 #body1 {
+    color: white;
     background-color:green;
 }
 #kop2 {
@@ -35,9 +36,7 @@ ul {
     text-align: center;
     padding: 14px 16px;
   }
-  active {
-    background-color: yellow;
-  }
+  
     /* Zoek op w3schools css navigation bar en dan horizontal, style float toevoegen aan ul bij
     de pagina zelf, dit verwijderen*/
 
