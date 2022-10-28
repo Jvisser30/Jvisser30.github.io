@@ -25,6 +25,12 @@
     background-color: lightgreen;
     color: white;
 }
+#kop5 {
+    color: red;
+}
+#body5 {
+    background-color:lightblue ;
+}
 ul {
     list-style-type: none;
     margin: 0;
