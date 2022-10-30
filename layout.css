@@ -51,5 +51,8 @@ ul {
   li a:hover {
     color:red;
   }
-  
+  li a:active {
+    background-color: white;
+    color:blue;
+  }
  
