@@ -47,5 +47,8 @@ ul {
     padding: 14px 16px;
     text-decoration: none;
   }
+  li a:hover {
+    color:red;
+  }
  
     /* Regelen paarse tekst menu ipv wit, moet wit zijn. Weten wat de code betekent!!! zie herrineringen*/
