@@ -51,5 +51,8 @@ ul {
   li a:hover {
     color:red;
   }
+  li: a:active {
+    background-color: white;
+  }
  
     /* Regelen paarse tekst menu ipv wit, moet wit zijn. Weten wat de code betekent!!! zie herrineringen*/
