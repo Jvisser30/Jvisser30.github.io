@@ -46,7 +46,7 @@ ul {
     text-align: center;
     padding: 14px 16px;
   }
- ul a:visited {
+ li a:link{
     color: white;
  }
     /* Regelen paarse tekst menu ipv wit, moet wit zijn. Weten wat de code betekent!!! zie herrineringen*/
