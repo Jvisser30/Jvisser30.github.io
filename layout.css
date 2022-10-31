@@ -32,6 +32,12 @@
 #body5 {
     background-color:lightblue ;
 }
+#link1 {
+    color: white;
+    background-color: red;
+    padding: 10px 10px;
+    text-align: center;
+}
 ul {
     list-style-type: none;
     margin: 0;
