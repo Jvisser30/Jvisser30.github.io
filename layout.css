@@ -51,5 +51,10 @@ ul {
   li a:hover {
     color:red;
   }
-  
+  footer {
+    color: white;
+    background-color:blue;
+    padding: 2px;
+    text-align: center;
+  }
  
