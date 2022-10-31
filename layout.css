@@ -35,8 +35,9 @@
 #link1 {
     color: white;
     background-color: red;
-    padding: 10px 10px;
+    padding: 8px 8px;
     text-align: center;
+    text-decoration: none;
 }
 ul {
     list-style-type: none;
