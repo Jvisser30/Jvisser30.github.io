@@ -1,3 +1,6 @@
+/* Dit commentaar geldt voor elke kop en body die hieronder wordt gebruikt. Op elke pagina zelf is  er een id gegeven aan zowel
+de kop als de body. De kop hebben kleurtjes gekregen en bij de body wordt de achtergrond van de pagina gekozen.*/
+
 #kop1 {
     color:rgb(131, 176, 161);
 }
@@ -39,6 +42,10 @@
     background-color: green;
     color: white;
 }
+/* Dit commentaar geldt voor de links hieronder. De links staan op de site als buttons. De padding betekent de grootte van
+deze buttons. Text-align is of de tekst links, rechts of in het midden staat en in dit geval is dit in het midden. De text-decoration
+bepaalt bijvoorbeeld de streep onder de link, in dit geval is die er niet. De background-color is de kleur van de button en de color is 
+de tekst*/
 #link1 {
     color: white;
     background-color: red;
@@ -60,6 +67,9 @@
     text-align: center;
     text-decoration: none;
 }
+/* Dit commentaar hoort bij de ul van hieronder. De ul is het menu van deze website. Dit menu wordt hier gestyled.
+De margin is hoeveel afstand er zit tussen de bovenkant van de pagina en het eerstestuk tekst onder het menu. 
+De padding bepaalt in hoeverre de tekst van het menu van de zijkant vandaan zit.*/
 ul {
     list-style-type: none;
     margin: 0;
@@ -88,3 +98,4 @@ ul {
  p {
     font-size: 18px; 
  }
+/*Zie commentaar boven ul, vra iemand wat overflow is en doe rest commentaar van deze pagina ook*/
