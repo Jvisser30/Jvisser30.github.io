@@ -85,17 +85,18 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
-  li a:hover {
+  } /*Dit commentaar hoort bij de li a, de li a gaat over de inhoud van het menu. Hiermee wordt dus kleur gegeven aan het menu,
+  en de grootte bepaald.*/
+  li a:hover { 
     color:red;
-  }
+  }/* de hover color is de kleur die het menu wordt wanneer je eroverheen gaat met de muis. De tekst wordt dan dus rood.*/
   footer {
     color: white;
-    background-color:blue;
+    background-color:blue; 
     padding: 2px;
     text-align: center;
-  }
+  } /* De footer staat onderaan elke pagina. De padding is de grootte en de text-align zorgt ervoor dat de tekst in het midden van
+  de pagina staat.*/
  p {
     font-size: 18px; 
- }
-/*Zie commentaar boven ul, vra iemand wat overflow is en doe rest commentaar van deze pagina ook*/
+ } /* Dit is de grootte van de tekst van de paragrafen, dus de tekst op elke pagina is 18px groot.
