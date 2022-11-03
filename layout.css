@@ -99,4 +99,9 @@ ul {
   de pagina staat.*/
  p {
     font-size: 18px; 
- } /* Dit is de grootte van de tekst van de paragrafen, dus de tekst op elke pagina is 18px groot.
+ } /* Dit is de grootte van de tekst van de paragrafen, dus de tekst op elke pagina is 18px groot.*/
+ iframe {
+    width: 500px; ;
+    height: 300px;
+    float: left;
+ }
