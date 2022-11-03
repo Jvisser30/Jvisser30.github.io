@@ -105,4 +105,9 @@ ul {
  iframe {
     float: left;
  }
+ #img1 {
+    width: 650;
+    height: 500;
+    float: left;
+ }
  
