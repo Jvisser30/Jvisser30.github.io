@@ -95,10 +95,5 @@ ul {
  p {
     font-size: 18px; 
  } /* Dit is de grootte van de tekst van de paragrafen, dus de tekst op elke pagina is 18px groot.*/
- iframe {
-    float: left;
- }
- #img1 {
-    float: right
- }
+
  
