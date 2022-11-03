@@ -69,12 +69,13 @@ de tekst*/
 }
 /* Dit commentaar hoort bij de ul van hieronder. De ul is het menu van deze website. Dit menu wordt hier gestyled.
 De margin is hoeveel afstand er zit tussen de bovenkant van de pagina en het eerstestuk tekst onder het menu. 
-De padding bepaalt in hoeverre de tekst van het menu van de zijkant vandaan zit.*/
+De padding bepaalt in hoeverre de tekst van het menu van de zijkant vandaan zit. Met de overflow wordt er voorkomen dat er
+wordt gescrolld*/
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
+ /*OVERFLOW:HIDDEN TOEVOEGEN, test*/
     background-color: black;
   }
   
