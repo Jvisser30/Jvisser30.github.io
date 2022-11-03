@@ -75,7 +75,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
- /*OVERFLOW:HIDDEN TOEVOEGEN, test*/
+    overflow: hidden;
     background-color: black;
   }
   
