@@ -95,7 +95,7 @@ ul {
   footer {
     color: white;
     background-color:blue; 
-    padding: 2px;
+    padding: 4px;
     text-align: center;
   } /* De footer staat onderaan elke pagina. De padding is de grootte en de text-align zorgt ervoor dat de tekst in het midden van
   de pagina staat.*/
