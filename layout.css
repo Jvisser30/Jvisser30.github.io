@@ -103,4 +103,12 @@ ul {
     font-size: 22px; 
  } /* Dit is de grootte van de tekst van de paragrafen, dus de tekst op elke pagina is 22px groot.*/
 
+ #buttonmenu {
+    background-color: red;
+    color: white;
+    font-size: 14px;
+    padding: 16px;
+
+ }
+
  
