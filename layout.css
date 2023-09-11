@@ -110,7 +110,7 @@ ul {
     font-size: 16px;
     border: none;
     cursor: pointer;
-  } /*Alle code die hierboven stond past de button van het menu aan. De padding bepaalt de grootte van de button
+ } /*Alle code die hierboven stond past de button van het menu aan. De padding bepaalt de grootte van de button
   en de font-size bepaalt de grootte van de tekst.*/
   
   .dropdown {
@@ -143,5 +143,7 @@ ul {
   .dropdown:hover .dropdown-content {display: block;}
   .dropdown:hover .dropbtn {background-color: #3e8e41;}
   /*Deze code gaat over het hoveren over de button en de onderdelen van het menu. De kleuren tijdens het hoveren worden bepaald.*/
+
+
 
  
