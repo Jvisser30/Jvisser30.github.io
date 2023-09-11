@@ -116,27 +116,32 @@ ul {
   .dropdown {
     position: relative; 
     display: inline-block;
-  }
+  }/*De position zorgt ervoor dat het dropdown menu op een vaste plek staat, dit betekent dat als de button wordt verplaatst,
+  de tekst meebeweegt. Het menu wordt weergegeven als een blok, hier is de display voor*/
   
   .dropdown-content {
     display: none;
     position: absolute;
     right: 0;
-    background-color: #f9f9f9;
+    background-color: blue;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
-  }
+  } /* De dropdown content gaat over de onderdelen van het menu. De display staat op 'none', dit betekent dat er geen onderdelen te zien
+  zijn totdat je over het menu hovert. De position 'absolute', betekent dat de tekst blijft staan als de button op een andere plek staat
+  of als deze groter wordt. Right '0', zorgt ervoor dat de tekst links begint. De min-width bepaalt de grootte van de onderdelen van het menu.
+  De box-shadow regelt de schaduwen die te zien zijn rondom de onderdelen van het menu. De z-index bepaalt de volgorde van het menu.*/
   
   .dropdown-content a {
     color: black;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
-  }
+  } /* Deze code gaat over de tekst van de onderdelen van het menu. De padding bepaalt de grootte.*/
   
   .dropdown-content a:hover {background-color: red;}
   .dropdown:hover .dropdown-content {display: block;}
   .dropdown:hover .dropbtn {background-color: #3e8e41;}
+  /*Deze code gaat over het hoveren over de button en de onderdelen van het menu. De kleuren tijdens het hoveren worden bepaald.*/
 
  
