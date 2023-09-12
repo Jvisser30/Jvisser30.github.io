@@ -42,6 +42,12 @@ de kop als de body. De kop hebben kleurtjes gekregen en bij de body wordt de ach
     background-color: green;
     color: white;
 }
+#kop7 {
+color: red;
+}
+#body7 {
+    background-color: green;
+}
 /* Dit commentaar geldt voor de links hieronder. De links staan op de site als buttons. De padding betekent de grootte van
 deze buttons. Text-align is of de tekst links, rechts of in het midden staat en in dit geval is dit in het midden. De text-decoration
 bepaalt bijvoorbeeld de streep onder de link, in dit geval is die er niet. De background-color is de kleur van de button en de color is 
