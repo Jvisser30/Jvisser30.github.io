@@ -73,31 +73,7 @@ de tekst*/
     text-align: center;
     text-decoration: none;
 }
-/* Dit commentaar hoort bij de ul van hieronder. De ul is het menu van deze website. Dit menu wordt hier gestyled.
-De margin is hoeveel afstand er zit tussen de bovenkant van de pagina en het eerstestuk tekst onder het menu. 
-De padding bepaalt in hoeverre de tekst van het menu van de zijkant vandaan zit. Met de overflow wordt er voorkomen dat er 
-wordt gescrolld wanneer er een deel van de tekst te groot is. Het menu staat dus vast */
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: black;
-  }
-  /*Dit commentaar hoort bij de li a, de li a gaat over de inhoud van het menu. Hiermee wordt dus kleur gegeven aan het menu,
-  en de grootte bepaald. Float left betekent dat de tekst van menu aan de linkerkant van de pagina staat.
-  De display zorgt ervoor dat de grootte van het menu kan worden bepaald met de padding.*/
-  li a {
-    float: left;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  } 
-  li a:hover { 
-    color:red;
-  }/* de hover color is de kleur die het menu wordt wanneer je eroverheen gaat met de muis. De tekst wordt dan dus rood.*/
+
   footer {
     color: white;
     background-color:blue; 
