@@ -48,6 +48,31 @@ color: red;
 #body7 {
     background-color:lightgreen;
 }
+#kop8 {
+    color: darkturquoise
+}
+#body8 {
+    color: black;
+    background-color: lightgreen;
+}
+#kop9 {
+    color: orange;
+}
+#body9 {
+    background-color: pink;
+}
+#body10 {
+    background-color: blue;
+}
+#kop10 {
+    color: lightgreen;
+}
+#body11 {
+    background-color: azure;
+}
+#kop11 {
+    color:blue;
+}
 /* Dit commentaar geldt voor de links hieronder. De links staan op de site als buttons. De padding betekent de grootte van
 deze buttons. Text-align is of de tekst links, rechts of in het midden staat en in dit geval is dit in het midden. De text-decoration
 bepaalt bijvoorbeeld de streep onder de link, in dit geval is die er niet. De background-color is de kleur van de button en de color is 
