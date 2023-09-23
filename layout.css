@@ -105,6 +105,13 @@ de tekst*/
     text-align: center;
     text-decoration: none;
 }
+#link5 {
+    color: white;
+    background-color: darkcyan;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;
+}
 
   footer {
     color: white;
